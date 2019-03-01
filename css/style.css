@@ -1,0 +1,356 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "Patrick SC", cursive;
+    font-size: 100%;
+}
+
+.bkg{
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc2JyBoZWlnaHQ9JzQ5Jz4KICA8cmVjdCB3aWR0aD0nMycgaGVpZ2h0PSc1MCcgZmlsbD0nI2ZmZicvPgogIDxyZWN0IHg9JzMnIHdpZHRoPScxJyBoZWlnaHQ9JzUwJyBmaWxsPScjY2NjJy8+Cjwvc3ZnPgo="); 
+  	background-repeat: repeat; 
+}
+
+.docBkg{
+	background:linear-gradient(to top, rgba(0,0,50,1),rgba(100,0,100,0.4));
+}
+
+.link-to-monitor{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255,0,0,0.4);
+    border: 1px solid blue;
+    border-radius: 8px;
+    z-index: 9999999;
+}
+
+.link-to-monitor a{
+    text-decoration:none;
+    color:blue;
+}
+
+/* header{} */
+
+
+.breadcrumb{
+    background: transparent;
+    color:white;
+}
+.breadcrumb-item{
+    font-size: 0.7em;
+}
+.breadcrumb-item a{
+    color:white;
+}
+
+.breadcrumb-item.active{
+    color:#ddd!important;
+}
+
+.sticky{
+	position:sticky;
+	top:0;
+	margin-bottom:5rem;
+	z-index:2;
+}
+
+.bgblkl{
+	padding:0;
+	background:rgba(0,0,0,0.5);
+}
+
+main{
+	min-height:80vh;
+	color:white;
+}
+
+footer{
+    font-size: 0.8rem;
+    background:rgba(0,0,50,1);
+}
+
+footer a{
+	text-decoration:none!important;
+	color:#fafafa!important;
+}
+
+.entretien_ol li, .entretien_ul li{
+	margin-left:2rem;
+	padding-left:1rem;
+}
+
+.entretien-p{
+	color:yellow;
+}
+
+.entretien-ol li{
+	color:yellow;
+}
+
+.ovf{
+	overflow-x:auto;
+}
+
+table tr:nth-child(even){
+	background:rgba(130,130,130,0.3);
+}
+
+
+
+/*  Login Form - connexion.php  */
+.login-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.login-form-1{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #ddd;
+}
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+
+.login-form-1 .ForgetPwd{
+    color: #aaa;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.login-form-1 .NewClient{
+	color: #ef8300;;
+    font-weight: 600;
+    text-decoration: none;
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+}
+
+
+
+/* Form styling formSyle1 */
+.form1Container{
+	background:rgba(0,0,0,0.3);
+	border:1px solid #555;
+	border-radius:5px;
+	padding-bottom:2rem;
+	margin-top:1rem!important;
+}
+
+.formStyle1{
+	width:70%;
+	margin:0 auto;
+}
+
+.formStyle1 input{
+	margin-bottom:5px!important;
+}
+
+
+/** Input Group **/
+
+.formStyle1 .inputGroup{
+	width: 100%;  
+	position: relative;
+	padding-top: 1.5rem;
+	margin-bottom:1rem;
+}
+
+
+
+/** type TEXT EMAIL NUMBER**/
+
+.formStyle1 .textEffect1{
+	color: yellow; 
+	width: 100%;
+	border:0;
+	border-bottom: 1px solid #999;
+	letter-spacing: 1px;
+	font-family:inherit;
+	font-size: 24px;
+	padding: 5px 14px;
+	transition: 1s;
+	background: transparent;
+}
+
+.formStyle1 .textEffect1:focus{
+	outline: none;
+	border-bottom:1px solid green;
+}
+
+.formStyle1 .textEffect1 ~ label{
+	position: absolute;
+    top: 0;
+    font-size: 1.3rem;
+    opacity: 1;
+    transform: translateY(0);
+    transition: all 0.2s ease-out;
+}
+
+.formStyle1 .textEffect1 ~ .requiredField{
+	position:absolute;
+	color:red;
+	top:1rem;
+	opacity:0;
+	transform: translateY(0);
+    transition: all 0.2s ease-out;
+
+}
+
+.formStyle1 .textEffect1:placeholder-shown + label {
+    opacity: 0;
+    transform: translateY(1rem);
+}
+
+.formStyle1 .textEffect1:placeholder-shown ~ .requiredField{
+	opacity: 1;
+    transform: translateY(1rem);
+}
+
+
+/** type TEXTAREA **/
+.formStyle1 .textareaEffect1{
+	color: orange; 
+	width: 100%;
+	border:0;
+	border-right: 1px solid #999;
+	border-bottom: 1px solid #999;
+	letter-spacing: 1px;
+	font-family:inherit;
+	font-size: 18px;
+	padding: 5px 14px;
+	transition: 1s;
+	background: transparent;
+}
+
+.formStyle1 .textareaEffect1:focus{
+	outline: none;
+	border-right:1px solid green;
+	border-bottom:1px solid green;
+}
+
+.formStyle1 .textareaEffect1 ~ label{
+	position: absolute;
+    top: 0;
+    font-size: 1.3rem;
+    opacity: 1;
+    transform: translateY(0);
+    transition: all 0.2s ease-out;
+}
+
+.formStyle1 .textareaEffect1 ~ .requiredField{
+	position:absolute;
+	color:red;
+	top:1rem;
+	opacity:0;
+	transform: translateY(0);
+    transition: all 0.2s ease-out;
+
+}
+
+.formStyle1 .textareaEffect1:placeholder-shown + label {
+    opacity: 0;
+    transform: translateY(1rem);
+}
+
+.formStyle1 .textareaEffect1:placeholder-shown ~ .requiredField{
+	opacity: 1;
+    transform: translateY(1rem);
+}
+
+
+/* radio buttons set */
+.formStyle1 [type=radio]{
+	opacity:0;
+}
+
+.formStyle1 [type=radio] + label span{
+	display:block;
+	padding:10px;
+}
+
+.formStyle1 [type=radio] + label{
+	display:inline-block;
+	border:1px solid #4CAF50;
+	border-radius:8px;
+	box-shadow:7px 5px 10px -3px #333;
+	margin:1rem 2rem;
+	cursor:pointer;
+}
+
+.formStyle1 [type=radio]:checked + label{
+	background:linear-gradient(to top left, rgba(0,255,0,0.8), rgba(0,255,0,0.3));
+	box-shadow:none;
+}
+
+.formStyle1 [type=radio]:checked + label span{
+	background:linear-gradient(to bottom, rgba(0,0,0,0.1), rgba(0,0,0,0.3));
+}
+
+.formStyle1 .radioGroup{
+	background:transparent;
+	margin-top:1.5rem;
+	margin-bottom:1.5rem;
+	margin-top:3rem;
+	width:50%;
+	padding:0;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-around;
+	align-items:center;
+}
+
+.formStyle1 .radioGroup legend{
+	background:transparent;
+	border:0;
+	font-weight:normal;
+	padding:0;
+	border-radius:10px;
+	color:inherit;
+}
+
+.formStyle1 .radioGroup legend::before{
+	content:"*";
+	color:red;
+
+}
+
+/* type submit */
+
+.formStyle1 [type=submit]{
+	cursor:pointer;
+	background:linear-gradient(to top, rgba(0, 109, 58,0.3), rgba(100,0,230,0.8));
+	width:30%;
+	font-size:1.9rem;
+	border:1px solid #4CAF50;
+	color:white;
+	box-shadow:7px 5px 10px -3px #333;
+	border-radius:5px;
+}
+
+.formStyle1 [type=submit]:active{
+	background:linear-gradient(to top, rgba(0,150,100,0.8), rgba(0, 109, 58,0.3));
+	box-shadow:none;
+	outline:none;
+}
+
+.formStyle1 [type=submit]:focus{
+	outline:none;
+}
