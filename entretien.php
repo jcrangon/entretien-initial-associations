@@ -35,7 +35,7 @@ if($GET_Data_Avail){ // appel de la page en modification
 		}
 		if($resultat->rowCount()!==0){
 			$assos=$resultat->fetch();
-			$log->info("association à ", $entretien);
+			$log->info("association à ", $assos);
 			$modify=true;
 		}
 		else{
@@ -248,7 +248,7 @@ if($POST_Data_Avail){ // appel de la page en insertion
 			$req="UPDATE ".$table." SET id_assos=:id_assos, rep1=:rep1, rep2=:rep2, rep3=:rep3, rep4=:rep4, rep5=:rep5, rep6=:rep6, rep7=:rep7, rep8=:rep8 , rep9=:rep9, rep10=:rep10, rep11=:rep11, rep12=:rep12, rep13=:rep13, rep14=:rep14, rep15=:rep15, rep16=:rep16, rep17=:rep17, rep18=:rep18, rep19=:rep19, rep20=:rep20, rep21=:rep21, rep22=:rep22, rep23=:rep23, rep24=:rep24, rep25=:rep25, rep26=:rep26, rep27=:rep27, rep28=:rep28, rep29=:rep29, rep30=:rep30   WHERE id_details_entretien=:id_details_entretien";
 			$resultat=$pdo->prepare($req);
 			$resultat->bindParam(":id_details_entretien",$_GET["id"],PDO::PARAM_INT);
-			$resultat->bindParam(":id_assos",$entretien["id_assos"],PDO::PARAM_INT);
+			$resultat->bindParam(":id_assos",$assos["id_assos"],PDO::PARAM_INT);
 			$resultat->bindParam(":rep1",$_POST["rep1"],PDO::PARAM_STR);
 			$resultat->bindParam(":rep2",$_POST["rep2"],PDO::PARAM_STR);
 			$resultat->bindParam(":rep3",$_POST["rep3"],PDO::PARAM_STR);

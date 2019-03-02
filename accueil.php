@@ -28,7 +28,7 @@ if(userISConnecte($fingerprint)){
 			$table_body.="<td><a href='./contact.php?id=".$item["id_contact"]."' title='Fiche'><span style='font-size:1rem; color:orange;'>".$item["nom_contact"]." ".$item["prenom"]."</a></span></td>";
 			$table_body.="<td><a href='tel:".$item["contactphone"]."' title='lancer un appel'><span style='font-size:1rem; color:orange;'>".$item["contactphone"]."</span></td>";
 			$table_body.="<td><a href='mailto:".$item["contactemail"]."' title='mailto'><span style='font-size:1rem; color:orange;'>".$item["contactemail"]."</span></td>";
-			$table_body.="<td><a class='btn btn-outline-danger' href='./action.php?action=2&id=".$item["id_entretien"]."' title='Supprimer' style='vertical-align:top;'><i class='fas fa-trash fatype-cat'></i></a></td>";
+			$table_body.="<td><a class='btn btn-outline-danger' href='./action.php?action=2&id=".$item["id_entretien"]."' title='Supprimer' onclick=\"return confirm('Cette Action est irreversible. Veuillez confirmer.')\" style='vertical-align:top;'><i class='fas fa-trash fatype-cat'></i></a></td>";
 			$table_body.="<td><a class='btn btn-outline-primary' href='./entretien.php?&id=".$item["id_details_entretien"]."' title='Voir' style='vertical-align:top;'><i class='far fa-eye'></i></a></td>";
 			$table_body.="</tr>";	
 		}

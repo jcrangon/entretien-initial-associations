@@ -1,0 +1,120 @@
+[02-Mar-2019 11:37:25 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 11:37:25 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 11:37:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 11:43:54 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 11:43:54 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 11:43:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 11:44:11 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 11:44:11 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 11:44:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 11:49:29 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 11:49:29 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 11:49:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:45 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 378
+[02-Mar-2019 12:08:45 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:45 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 379
+[02-Mar-2019 12:08:45 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 380
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 381
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 382
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 383
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 384
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 385
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 386
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 387
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 389
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 390
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 391
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 392
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 393
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 394
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 395
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 396
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 397
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 398
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 400
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 401
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 402
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 403
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 404
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 405
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 406
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 407
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 408
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Notice:  Undefined variable: assos in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 409
+[02-Mar-2019 12:08:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:08:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:09:27 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 12:09:27 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:09:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:09:46 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 12:09:46 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:09:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:09:54 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 12:09:54 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:09:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:10:40 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 12:10:40 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:10:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:16:12 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 12:16:12 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:16:12 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
+[02-Mar-2019 12:16:31 Europe/Paris] PHP Notice:  Undefined variable: entretien in C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php on line 38
+[02-Mar-2019 12:16:31 Europe/Paris] PHP Stack trace:
+[02-Mar-2019 12:16:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\codiad\workspace\cwampwww\projet3\entretien.php:0
